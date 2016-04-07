@@ -1,0 +1,25 @@
+Install
+=======
+
+
+Linux, Mac, or Windows
+----------------------
+
+   1. Extract the package to your local computer into a directory;
+
+   2. At a terminal go to the directory where the package was extracted;
+
+   In Linux or Mac:
+   3. Verifies if the wap script is executable. If it not, then execute "chmod u+x wap" at the prompt;
+
+   4. Run the script wap to use the tool. See in README file how you can use the tool.
+
+   In Windows
+   3. Run the batch file wap.bat to use the tool. See in README file how you can use the tool.
+
+
+Copyright and Trademark notices
+-------------------------------
+
+  Java is trademark or registered trademark of Oracle, Inc.
+  ANTLR is copyrighted by the Terence Parr, University of San Francisco, 1989-2014.

@@ -1,0 +1,32 @@
+Changes:
+=======
+09.Nov.2015 - v2.1
+- fixed some bugs in parsing the siurce code
+- improvement of san_sqli() fix to avoid the semantic gap between PHP and DBMS
+- include the Random Tree and Support Vector Machine (SVM) classifiers and the JRip ruler to data mining module, to predict false false positives with more precision.
+- output the causes of a false positives
+
+22.Oct.2015 - v2.0.5
+- write the corrected code to files was fixed
+
+21.Oct.2015 - v2.0.4
+- module corrector was enhanced, fixing some bugs when write to monitor and file
+
+20.Oct.2015 - v2.0.3
+- XSS sanitization functions bug fixed
+- command injection vulnerabilities under output functions (excepting XSS) are detected
+- accept CRLF eol
+- name of directory with with spaces is accepted
+
+02.Oct.2015 - v2.0.2
+- the flag -all to detect all types of vulnerabilities
+- fixed some output bugs in correction of source code
+- unquoted arguments in  call functions is allowed
+
+29.Jul.2015 - v2.0.1
+The execution of the tool under Windows was fixed.
+
+28.Mar.2015 - v2.0
+The sanitization and validation functions used by the tool to perform the code correction were improved. 
+
+
