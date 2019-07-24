@@ -1,3 +1,5 @@
+**This is a mirror for the original version of wap**
+
 What is WAP?
 =============
 
@@ -27,7 +29,7 @@ Downloading WAP
 
 Further information on WAP and the latest version can be obtained at:
 
-  https://awap.sourceforge.net
+  http://awap.sourceforge.net
 
 
 Documentation
@@ -119,7 +121,7 @@ If you encounter problems with WAP, help is available!
 
 The WAP support page, available on the Web at
  
-  https://awap.sourceforge.net
+  http://awap.sourceforge.net
 
 Lastly, WAP developer, Ibéria Medeiros
 is available by email at
